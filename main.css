@@ -1,0 +1,22 @@
+header{
+    background-color: #ccd5ae;
+}
+
+nav{
+    background-color: #606c38;
+}
+
+.bg-sand{
+    background-color: #faedcd;
+}
+
+footer{
+    min-height: 200px;
+    background-color: #ccd5ae;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #d16e3d;
+    border-color: #0d6efd;
+}
